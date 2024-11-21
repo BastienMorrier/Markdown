@@ -1,33 +1,32 @@
-# Bastien Morrier testt conflit modif
+# Bastian Poirier, futur maître nageur
 
-Je m'appelle Bastien, j'ai 21 ans et je joue au basket.
+Je m'appelle Bastian, j'ai 16 ans et je kiffe la brasse et le crawl
 
 ## Mes compétences
-- Drôle
-- Je sais jouer au basket
-- Drôle
+- Plongeon
+- Je sais nager 
+- Plongeon
 
-**Tu es extrement drôle Bastien**
+**La nage du papillon**
 
 ## Les choses que je préfère
-- Mangas
-- Films
-- Jeux vidéos
+- Nager
+- Naggi
+- Narnia
 
 ## Mon objectif
-Mon objectif est d'acquérir le plus de connaissances possible en venant chez Becode.
+Mon objectif est d'acquérir le plus de nages possibles en venant chez Becode.
 
 ## Mes peurs
-Ne pas atteindre mes objectifs.
+Ne pas atteindre le 5km dos crawlé.
 
 ## Je me réjouis de
-Réussir mes objectifs.
+Faire 5km dos crawlé.
 
 ## Mes valeurs
-- Communication
-- Collaboration
-- Bienveillance
+- Surveiller la piscine
+- Sauver les petits qui se noient
+- Toujours brasser de plus en plus vite
 
-![Dog](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3prajAxZnBicDZwdHV6MTJ4NWQ1dDBlc3Ryd29icHoyeWJta2c3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5xk7fGO5FjjTElnpT/giphy.gif)
+![Dog](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJzcmMyMzM4MXdkcTZnOHJlMjZ6Y2JhbWNxMDZ5NXcxYjdqb29sZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jV5tR8RGpFqK8ad3gd/giphy.gif)
 
-![homer](https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif)
