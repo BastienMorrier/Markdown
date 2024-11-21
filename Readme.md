@@ -7,6 +7,8 @@ Je m'appelle Bastien, j'ai 21 ans et je joue au basket.
 - Je sais jouer au basket
 - Drôle
 
+**Tu es extrement drôle Bastien**
+
 ## Les choses que je préfère
 - Mangas
 - Films
@@ -27,3 +29,5 @@ Réussir mes objectifs.
 - Bienveillance
 
 ![Dog](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3prajAxZnBicDZwdHV6MTJ4NWQ1dDBlc3Ryd29icHoyeWJta2c3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5xk7fGO5FjjTElnpT/giphy.gif)
+
+![homer](https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif)
