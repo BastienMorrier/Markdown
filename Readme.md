@@ -1,11 +1,11 @@
-# Bastien Morrier test modif
+# Bastien Morrier
 
-Je m'appelle Bastien, j'ai 21 ans et je joue au basket.
+Je m'appelle Bastien, j'ai 21 ans et je joue au basket mais je ne suis pas très bon.
 
 ## Mes compétences
-- Drôle
-- Je sais jouer au basket
-- Drôle
+- Drôle ou pas
+- Je ne sais jouer au basket 
+- Drôle toujours pas
 
 ## Les choses que je préfère
 - Mangas
@@ -16,7 +16,7 @@ Je m'appelle Bastien, j'ai 21 ans et je joue au basket.
 Mon objectif est d'acquérir le plus de connaissances possible en venant chez Becode.
 
 ## Mes peurs
-Ne pas atteindre mes objectifs.
+Ne pas atteindre mes objectifs et des fantômes 👻.
 
 ## Je me réjouis de
 Réussir mes objectifs.
