@@ -1,4 +1,4 @@
-# Bastien Morrier test modif
+# Bastien Morrier testt conflit modif
 
 Je m'appelle Bastien, j'ai 21 ans et je joue au basket.
 
